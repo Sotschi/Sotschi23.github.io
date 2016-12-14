@@ -1,38 +1,53 @@
-Alpha by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+TITLE: 
+Glow - 100% Fully Responsive Free HTML5 Bootstrap Template
+
+AUTHOR:
+DESIGNED & DEVELOPED by FREEHTML5.co
+
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
 
-A clean, super minimal responsive template geared towards startups, app devs, and other
-dedicated folks working tirelessly to launch their products. Includes a landing page,
-generic page, contact page, and a page with a whole mess of pre-styled elements (something
-new I'm trying out). Sass sources are also included.
+CREDITS:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Bootstrap
+http://getbootstrap.com/
 
-(* = Not included)
+jQuery
+http://jquery.com/
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
-AJ
-aj@lkn.io | @ajlkn
+Modernizr
+http://modernizr.com/
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+Google Fonts
+https://www.google.com/fonts/
 
+Google Map
+https://maps.google.com/
 
-Credits:
+Icomoon
+https://icomoon.io/app/
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+animate.css
+http://daneden.me/animate
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Superfish Menu
+http://users.tpg.com.au/j_birch/plugins/superfish/examples/
+
+hoverIntent
+https://github.com/briancherne/jquery-hoverIntent
+
+Stellar Parallax
+http://markdalgleish.com/projects/stellar.js/
+
